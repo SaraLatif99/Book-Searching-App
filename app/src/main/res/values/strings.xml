@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Books List</string>
+    <string name="activity_book_details">Book Details</string>
+</resources>
